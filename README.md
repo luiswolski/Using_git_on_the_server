@@ -167,16 +167,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-
 ```
+
 * To save: Ctrl+O > Enter > Ctrl+X
 ### With the .gitignore ready, let's make the first commit
 * Set your account
+* 
 ```
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
+
 * Now make the commit
 ```
 git add .
@@ -199,9 +200,8 @@ git init
 ```
 git remote add origin serv_user@site_url:/home/youruser/repository
 ```
-* If your site just have the ip try this: https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-```
-new-ssh-key-to-your-github-account
-```
+* If your site just have the ip try this: https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
 
 
 ### If you still having problems :desktop_computer:
