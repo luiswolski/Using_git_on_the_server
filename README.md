@@ -20,7 +20,7 @@ git init --bare
 ```
 cd ..ls
 ```
-* Now go to you project directory
+* Now go to your project directory
 ```
 cd yourproject
 ```
@@ -189,7 +189,7 @@ git commit -am 'Initial'
 ```
 git push origin master
 ```
-## Now go in your computer
+## Now go in your computer :desktop_computer:
 * Make a new file
 * Mouse right click
 * Open in Terminal
